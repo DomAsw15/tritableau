@@ -21,6 +21,8 @@ int verifieTableau(int tableau[], int tailleTableau)
 return flagValeurOrdonnee;
 }
 
+/* Tri le tableau  par ordre croissant
+   par permutation des valeurs */
 
 void triTableau(int tableau[], int tailleTableau)
 {
