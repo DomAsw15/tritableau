@@ -3,6 +3,8 @@
 
 /* Fonctions */
 
+/* Vérifie si tout le tableau est bien ordonné */
+
 int verifieTableau(int tableau[], int tailleTableau)
 {
 	int i = 0;
@@ -46,6 +48,8 @@ void triTableau(int tableau[], int tailleTableau)
 
 return;
 }
+
+/* Affiche les valeurs du tableau */
 
 void afficheTableau(int tableau[], int tailleTableau)
 {
