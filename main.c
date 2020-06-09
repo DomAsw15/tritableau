@@ -4,7 +4,7 @@
 
 /* tri un tableau de 4 entiers en ordre croissant */
 /* le 7 juin 2020 DomAsw15 */
-/* Auto formation test github 02*/
+/* Auto formation test github 03*/
 
 int main(int argc, char *argv[])
 {
