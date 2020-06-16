@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* Fonctions */
-/* Auto formation Github 01 */
+/* Auto formation Github 02 */
 
 /* Vérifie si tout le tableau est bien ordonné */
 /* flagValeurOrdonnee = 0 tableau ordonné */
