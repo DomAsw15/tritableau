@@ -5,8 +5,9 @@
 /* Auto formation Github 02 */
 
 /* Vérifie si tout le tableau est bien ordonné */
-/* flagValeurOrdonnee = 0 tableau ordonné */
-/* flagValeurOrdonnee > 0 tableau non ordonné */
+/* flagValeurOrdonnée = 0 tableau ordonné */
+/* flagValeurOrdonnée > 0 tableau non ordonné */
+/*test commentaire */
 
 int verifieTableau(int tableau[], int tailleTableau)
 {
